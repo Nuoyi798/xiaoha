@@ -25,3 +25,8 @@ NextPal 是一个基于 STM32F103 的四足机器人控制项目，集成 FreeRT
 打开 Watt Toolkit，进入「**网络加速**」，勾选 **GitHub**，再点击「**一键加速**」即可：
 
 ![在网络加速中勾选 GitHub 并一键加速](https://jacakebum.github.io/NextPalCode/images/step3-install.jpg)
+
+
+---
+
+> **来源声明**：本仓库内容复制自 [Jacakebum/NextPalCode](https://github.com/Jacakebum/NextPalCode)，原作者：**Jacakebum**。
